@@ -1,0 +1,27 @@
+* {
+    padding:0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.box-one {
+    background-color: #eb5757;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid #9b51e0;
+    margin: 60px;
+    /* box-sizing: border-box; */
+}
+
+.box-two{
+    background-color: #2d9cbd;
+    border: 0 solid #27ae60;
+    background-color: #eb5757;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid #9b51e0;
+    margin: 60px; /* collapses between 2 elements and share the largest*/
+
+}

@@ -3,9 +3,15 @@
 
 }
 
+h3 {
+    margin: 0;
+    width: 50%;
+    text-align: center;
+}
 .my-form{
     border: #333 solid 5px;
     width: 50%;
+    background-color: beige;
 }
 .my-form .form-group {
     padding-bottom: 15px;

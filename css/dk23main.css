@@ -1,0 +1,42 @@
+.my-form {
+    padding:20px;
+
+}
+
+h3 {
+    margin: 0;
+    width: 50%;
+    text-align: center;
+}
+.my-form{
+    border: #333 solid 5px;
+    width: 50%;
+    background-color: beige;
+    margin: 20px;
+}
+.my-form .form-group {
+    padding-bottom: 15px;
+    
+}
+
+.my-form label {
+    display: block;
+    
+}
+
+.my-form input[type="text"], .my-form input[type="password"] {
+    padding: 8px;
+    /* width: 100%; */
+}
+
+.my-form input[type="button"], .my-form button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: yellow 10px solid;
+    ;
+}
+
+.button:hover {
+    background-color: red;
+}
